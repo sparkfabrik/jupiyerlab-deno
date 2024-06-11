@@ -8,7 +8,7 @@ else ifeq ($(OS),Darwin)
 endif
 
 up:
-	docker-compose up --build
+	docker-compose up --build -d
 
 open: up
 	@$(OPEN) http://localhost:8888
