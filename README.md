@@ -13,7 +13,7 @@ Before getting started, make sure you have the following prerequisites installed
 1. Clone this repository:
 
     ```shell
-    git clone https://github.com/sparkfabrik/jupiyerlab-deno
+    git clone https://github.com/sparkfabrik/jupyterlab-deno
     ```
 
 2. Change into the project directory:
