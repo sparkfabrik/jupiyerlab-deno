@@ -11,4 +11,5 @@ up:
 	docker-compose up --build -d
 
 open: up
+	@sleep 3
 	@$(OPEN) http://localhost:8888
